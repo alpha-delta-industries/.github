@@ -1,7 +1,7 @@
 # Alpha Delta industries
 
 ## Description
-**Alpha Delta industries** aka **Cryptofari** (this titles may change) is a development team dedicated to creating open source software and protocols.
+**Alpha Delta industries** (this title may change) is a development team dedicated to creating open source software and protocols.
 
 ## Donation methods
 [Monero (XMR)](https://github.com/monero-project/): `4711GtM6NUJaCR7RsXshMzJnptvKtDtz8Gm7AXfj6GeKEEoGghGzbxd37f78k8WiJ4it5cQDV1AmRKS34UqNgSwKDQuEy25`
